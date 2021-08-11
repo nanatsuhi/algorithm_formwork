@@ -1,9 +1,5 @@
 # algorithm_formwork
 
-Some simple formworks QwQ
+Some simple formworks
 
-一个用来装我写的算法模板的仓库
-
-想要看解析的可以来我的[博客](https://slight.ink)找找QwQ
-
-欢迎使用QwQ
+退役多年了(っ °Д °;)っ
